@@ -28,7 +28,7 @@ Vejo com olhos brilhantes as ideias serem colocadas em forma de código e sendo 
 ## **Contatos:**
 
 <a href="https://www.linkedin.com/in/fabio-macedosouza/" target="_blak"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=25 heigth=25 /> </a>
-# **EMAIL**: macedo.fabiosouza@gmail.com
+**EMAIL**: macedo.fabiosouza@gmail.com
 
-
+# HABILIDADES
 
