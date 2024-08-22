@@ -27,7 +27,7 @@ Vejo com olhos brilhantes as ideias serem colocadas em forma de código e sendo 
 
 ## **Contatos:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=20 heigth=20/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=25 heigth=25 href="www.google.com"/>
 
 
 
