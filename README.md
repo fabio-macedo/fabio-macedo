@@ -27,6 +27,6 @@ Vejo com olhos brilhantes as ideias serem colocadas em forma de código e sendo 
 
 ## **Contatos:**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" href="https://www.linkedin.com/in/fabio-macedosouza/" heigth=20 width=20/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" />
 
 
