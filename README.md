@@ -1,4 +1,4 @@
-### Fábio Macedo 👋
+# Fábio Macedo 👋
 
 <!--
 **fabio-macedo/fabio-macedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,4 +25,4 @@ Vejo com olhos brilhantes as ideias serem colocadas em forma de código e sendo 
 
 
 
-## **Contatos: **
+## **Contatos:**
