@@ -27,6 +27,10 @@ Vejo com olhos brilhantes as ideias serem colocadas em forma de código e sendo 
 
 ## **Contatos:**
 
+<img alt="Static Badge" src="https://img.shields.io/badge/html">
+
+
+
 <a href="https://www.linkedin.com/in/fabio-macedosouza/" target="_blak"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=25 heigth=25 /> </a>
 **EMAIL**: macedo.fabiosouza@gmail.com
 
