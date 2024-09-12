@@ -19,20 +19,20 @@ Olá, me Chamo Fábio, tenho 30 anos, e há dois anos, mesmo antes de começar a
 Vejo com olhos brilhantes as ideias serem colocadas em forma de código e sendo utilizadas para tantos fins diversos. Quando me deparo com desafios mais complexos, adoro sentar e trabalhar o raciocínio e resolvê-lo da melhor forma.
 
 
+##
+
+<div style="display: inline-block"><br>
+  
+</div>
 
 
+## CONTATOS
+<a href="https://www.linkedin.com/in/fabio-macedosouza/" target="_blak"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="" target="_blak"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/fabio-macedo/" target="_blak"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=green" /></a><br>
 
-
-
-
-## **Contatos:**
-
-<img alt="Static Badge" src="https://img.shields.io/badge/html">
-
-
-
-<a href="https://www.linkedin.com/in/fabio-macedosouza/" target="_blak"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=25 heigth=25 /> </a>
 **EMAIL**: macedo.fabiosouza@gmail.com
 
-# HABILIDADES
+## Tecnologias
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-macedo&theme=blue-green">
 
