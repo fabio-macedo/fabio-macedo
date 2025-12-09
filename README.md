@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá, me Chamo Fábio, tenho 30 anos, e há dois anos, mesmo antes de começar a faculdade de Sistemas para Internet, comecei a estudar muito lógica de programação, mais especificamente em Java, linguagem que me apaixonei pelo uso.
+Olá, me Chamo Fábio, tenho 31 anos, e há três anos, mesmo antes de começar a faculdade de Sistemas para Internet, comecei a estudar muito lógica de programação, mais especificamente em Java, linguagem que me apaixonei pelo uso.
 Vejo com olhos brilhantes as ideias serem colocadas em forma de código e sendo utilizadas para tantos fins diversos. Quando me deparo com desafios mais complexos, adoro sentar e trabalhar o raciocínio e resolvê-lo da melhor forma.
-
+Atualemnte trabalho como desenvovledor back-end Júnior.
 
 ## Habilidades
 
